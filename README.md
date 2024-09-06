@@ -40,3 +40,9 @@ Objective: Analyze consumer behavior, preferences, and perceptions from survey d
 Snapshot of Code
 ![dash](https://github.com/user-attachments/assets/71165c75-ac75-430d-9b44-d88c09339a2c)
 
+
+Contact
+For any questions or clarifications, feel free to contact me:
+
+- Email: saurabhmane3450@gmail.com
+- LinkedIn: [Saurabh Mane](https://www.linkedin.com/in/saurabh-mane-b47915260/)
